@@ -2,3 +2,24 @@
     margin: 0;
     padding: 0;
 }
+.container{
+    margin-bottom: 50px;
+}
+.bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now-btn{
+    background: linear-gradient(to bottom, #ff6aa3 0%, #FF136F 100%);
+    border: none;
+    color: #FFF;
+    padding: 10px 25px;
+    cursor: pointer;
+    border-radius: 10px;
+}
